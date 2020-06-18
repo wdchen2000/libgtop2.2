@@ -1,5 +1,5 @@
 # libgtop2.2
-Temporary location for this library
+Temporary location for this library - created while I worked for AWS.  This is a test.
 
 Jan 26, 2019
 rpm name:  	libgtop2-2.38.0-3.el7.x86_64.rpm
